@@ -1,0 +1,58 @@
+.dtn-future {
+	overflow: auto;
+}
+
+.dtn-forcast-single {
+	float: left;
+	margin: 0 10px 10px 0;
+	padding: 6px;
+	box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.2);
+}
+
+.dtn-weather {
+	padding: 12px;
+	box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.2);
+}
+
+.dtn-temp-digit {
+	font-size: 108px;
+	line-height: 100px;
+	margin-left: 12px;
+}
+
+.dtn-temp-scale {
+	font-size: 26px;
+}
+
+.dtn-temp div{
+	float: left;
+}
+
+.dtn-conditions-left div {
+	float: left;
+	height: 96px;
+}
+
+.dtn-conditions-left img {
+	float: left;
+	margin-left: -5px;
+}
+
+.dtn-conditions-left {
+	float: left;
+}
+
+.dtn-conditions-right{
+	float: right;
+	min-width: 50%;
+	padding-top: 6px;
+ }
+
+.dtn-conditions-desc {
+	font-size: 18px;
+}
+
+.dtn-conditions-radar {
+	float: right;
+	min-width: 50%;
+}
